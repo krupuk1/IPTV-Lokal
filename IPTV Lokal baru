@@ -3128,7 +3128,7 @@ http://50.7.59.216:61980/hls/sz_phcn/index.m3u8?key=84797b799ae18d1b
 rtmp://58.200.131.2:1935/livetv/startv
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c6299e1d3f876fd72e909d9ef2233a25837e5898e0d020e4698f256ac1f325d5.png" group-title="DP@HIBURAN", PEOPLE ARE AWESOME
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c6299e1d3f876fd72e909d9ef2233a25837e5898e0d020e4698f256ac1f325d5.png" group-title="HIBURAN", PEOPLE ARE AWESOME
 https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -3466,7 +3466,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c051
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="PLUTO SPORTS", Bellator MMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="P@PLUTO SPORTS", Gameplay: Sports
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="PLUTO SPORTS", Gameplay: Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f84ce2ac265700008d48dcf/colorLogoPNG.png" group-title="PLUTO SPORTS", Pac-12 Insider
