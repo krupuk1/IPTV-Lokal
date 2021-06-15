@@ -391,6 +391,15 @@ https://cdn12jtedge.useetv.com/joss/133/kompastv/chunklist_w1272037130_b684100_s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="USEE TV",Rajawali TV
 https://cdn12jtedge.useetv.com/joss/130/rtv/chunklist_w250010659_b1004100_sleng.m3u8?enc=GAkfFPJMURCdsF7l1p1YOQ&uid=&exp=1623734129
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="USEE TV",TransTV
+https://cdn08jtedge.useetv.com/joss/133/transtv/chunklist_w1653686800_b894100_sleng.m3u8?enc=-L71g1okytAjga4xXLEOow&uid=&exp=1623736182
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="USEE TV",Trans7
+https://cdn08jtedge.useetv.com/joss/133/trans7/chunklist_w1121979855_b894100_sleng.m3u8?enc=a9kthfgxxrMnzukR0ZF-Yw&uid=&exp=1623736098
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="USEE TV",Antara
+https://cdn08jtedge.useetv.com/joss/130/antara/chunklist_w792036746_b1004100_sleng.m3u8?enc=rIxjg4SXtwCBQ5edoIforA&uid=&exp=1623735293
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="USEE TV",My Kids
 https://cdn12jtedge.useetv.com/joss/134/mykids/chunklist_w141052250_b1004100_sleng.m3u8?enc=xo-T86agIQhG24HCZZlDKA&uid=&exp=1623733752
 
